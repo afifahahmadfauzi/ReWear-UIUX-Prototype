@@ -49,4 +49,4 @@ Usability Design
 ## Prototype
 
 The project was developed as an interactive Figma prototype to demonstrate the intended user experience and navigation between different screens.\
-To view the prototype, check out index.html.
+To view the prototype, [check out this link](https://afifahahmadfauzi.github.io/ReWear-UIUX-Prototype/)
